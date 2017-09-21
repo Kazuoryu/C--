@@ -1,0 +1,7 @@
+C:\Users\Phantom\Documents\GitHub\C--\Creacion de objetos\Creacion de objetos\bin\Debug\Creacion de objetos.exe.config
+C:\Users\Phantom\Documents\GitHub\C--\Creacion de objetos\Creacion de objetos\bin\Debug\Creacion de objetos.exe
+C:\Users\Phantom\Documents\GitHub\C--\Creacion de objetos\Creacion de objetos\bin\Debug\Creacion de objetos.pdb
+C:\Users\Phantom\Documents\GitHub\C--\Creacion de objetos\Creacion de objetos\obj\Debug\Creacion de objetos.csprojResolveAssemblyReference.cache
+C:\Users\Phantom\Documents\GitHub\C--\Creacion de objetos\Creacion de objetos\obj\Debug\Creacion de objetos.csproj.CoreCompileInputs.cache
+C:\Users\Phantom\Documents\GitHub\C--\Creacion de objetos\Creacion de objetos\obj\Debug\Creacion de objetos.exe
+C:\Users\Phantom\Documents\GitHub\C--\Creacion de objetos\Creacion de objetos\obj\Debug\Creacion de objetos.pdb
