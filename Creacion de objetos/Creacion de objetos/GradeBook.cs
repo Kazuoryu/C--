@@ -30,7 +30,7 @@ namespace Creacion_de_objetos
             return stats;
         }
 
-        private void AddGrade(float grade)
+        public void AddGrade(float grade)
         {
             grades.Add(grade);
         }
